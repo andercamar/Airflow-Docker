@@ -1,0 +1,9 @@
+# Ignorar tudo por padrão
+*
+
+# Exceto os arquivos essenciais para configuração
+!.gitignore
+!docker-compose.yaml
+!Dockerfile
+!requirements.txt
+!.env-example
